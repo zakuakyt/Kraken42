@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW6,SW26,SW1,SW16,SW10,SW28,SW18,SW17,SW25,SW15,SW3,SW9,SW39,SW13,SW37,SW14,SW30,SW27,SW5,SW41,SW29";"SW_choc_v1+v2_1u";21;"SW_Push";;;
+2;"J3";"JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal";1;"Conn_01x02_Socket";;;
+3;"J1";"OLED-128x32-cutout";1;"OLED-128x32";;;
+4;"SW45";"Panasonic_EVQPUL_EVQPUC";1;"SW_Push";;;
+5;"D37,D1,D17,D41,D13,D28,D16,D29,D39,D26,D9,D18,D25,D27,D15,D3,D6,D10,D14,D5,D30";"D_DO-35_SOD27_P7.62mm_Horizontal";21;"D";;;
