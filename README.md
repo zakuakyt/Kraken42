@@ -10,6 +10,14 @@ Kraken themed 6x3+3 ergonomic split keyboard heavily inspired by corne layout.
   <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/kraken.svg" width="25%">
 </p>
 
+## Created With
+![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
+
+![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/ZMK%20Firmware-8A2BE2)
+
+
 ## Features
 
 - Staggered
