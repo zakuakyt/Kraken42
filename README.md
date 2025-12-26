@@ -1,20 +1,56 @@
 # Kraken42
 Kraken themed 6x3+3 ergonomic split keyboard heavily inspired by corne layout.
-![Alt text](https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/kraken.svg)
+<p align="center">
+  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/kraken.svg" width="25%">
+</p>
+
 ## Features
 
--staggered
+- Staggered
 
--40% layout
+- 40% layout
 
--3 thumb keys
+- 3 thumb keys
 
--Choc V1 switches
+- Choc V1 switches
 
--Wireless
+- Wireless
+
+## PCB
+Designed with KiCad
+- 2 layers
+- Silkscreen graphics
+- Controlled by 2x Supermini NRF52840
+
+ #### Schematic
+  <p align="center">
+  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/Screenshot%202025-12-24%20172542.png" width="75%">
+</p>
+
+  #### PCB Layout
+
+<p align="center">
+  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/transparentPCB.png" width="75%">
+</p>
+
+## CAD
+Designed with Fusion 360
+- Low-profile
+- includes plates and bottom cases
+- assembled using 5x2 M3 screws
+
+  <p align="center">
+  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/transparentFront.png" width="75%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/transparentSide.png" width="75%">
+</p>
 
 
-### BOM
+
+
+## BOM
 
 | Product | Quantity | Source | Price($) | Link |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
