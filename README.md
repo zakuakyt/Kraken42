@@ -83,8 +83,9 @@ Designed with Fusion 360
 
 ### Subtotal : 103.66
 #### Not including taxes
-
 ---
 
-## Made with love by zakuak 💖
-## Star this if you liked it!
+
+ Made with 💖 by zakuak
+ 
+ Star this if you liked it!
