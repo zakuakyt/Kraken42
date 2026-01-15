@@ -82,3 +82,9 @@ Designed with Fusion 360
 | Left & Right PCB + Shipping | 5 | JLCPCB | 27.06 | - |
 
 ### Subtotal : 103.66
+#### Not including taxes
+
+---
+
+## Made with love by zakuak 💖
+## Star this if you liked it!
