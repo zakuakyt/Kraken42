@@ -21,6 +21,9 @@
 
 I wanted to make this keyboard because I was tired of using the same old ergonomically horrible rectangular mechanical keyboard. After looking at prices for ergosplits on the market, I was shocked and decided to make my own. 
 
+[Devlog](https://github.com/zakuakyt/Kraken42/blob/main/kraken42-split-keyboard-journal.md
+)
+
 ## Features
 
 - Staggered
